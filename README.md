@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg) [![Latest Stable Version](https://img.shields.io/packagist/v/wvbforum/covid-bbcode.svg)](https://packagist.org/packages/wvbforum/covid-bbcode) ![Packagist](https://img.shields.io/packagist/dt/wvbforum/covid-bbcode.svg)
 
-A [Flarum](http://flarum.org) extension. Adds COVID-19 Dashboard by the CSSE of the John Hopkins' University embed BBCode to your Flarum.
+A [Flarum](http://flarum.org) extension. Adds COVID-19 Dashboard by the CSSE of the John Hopkins University embed BBCode to your Flarum.
 
 ### Installation
 
