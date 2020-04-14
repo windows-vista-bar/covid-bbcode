@@ -6,7 +6,9 @@
     "authors": [
         {
             "name": "JC-ProPlus",
-            "email": "guo121guo@gmail.com",
+            "email": "jcproplus@wvb.xyz"
+        },
+        {
             "name": "2006bt",
             "email": "m2006bt@outlook.com"
         }
@@ -18,7 +20,7 @@
         "flarum-extension": {
             "title": "COVID-19 Dashboard BBCodes",
             "icon": {
-                "name": "fas fa-lungs-virus",
+                "name": "fas fa-first-aid",
                 "color": "#FFF",
                 "backgroundColor": "#2196F3"
             }
