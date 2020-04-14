@@ -10,6 +10,6 @@ return (new Extend\Formatter)
             );
             $config->BBCodes->addCustom(
                 '[covid-mobile]',
-                '<iframe name=covid-mobile frameborder="0" scrolling="auto" width="100%" height=600 οnlοad="document.all[\'covid-dash\'].style.width=myframe.document.body.scrollWidth" src="https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61"></iframe>'
+                '<iframe name=covid-mobile frameborder="0" scrolling="auto" width="100%" height=600 οnlοad="document.all[\'covid-mobile\'].style.width=myframe.document.body.scrollWidth" src="https://www.arcgis.com/apps/opsdashboard/index.html#/85320e2ea5424dfaaa75ae62e5c06e61"></iframe>'
             );
         });
